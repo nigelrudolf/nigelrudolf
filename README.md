@@ -8,7 +8,7 @@ I'm a passionate Software Developer specializing in React Native and TypeScript.
 
 - **Languages:** JavaScript, TypeScript, Rust, Kotlin, Swift
 - **Frameworks/Libraries:** React, React Native, NextJS, Node.js
-- **Tools:** Git, GitHub, Visual Studio Code
+- **Tools:** Git, GitHub, Visual Studio Code, Docker
 
 ## 🚀 Professional Work
 
