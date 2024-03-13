@@ -18,7 +18,7 @@ I'm a passionate Software Developer specializing in React Native and TypeScript.
 * **Technologies used**: React, React Native, NodeJS, NextJS
 * **Noteable libraries**: Mapbox
 
-### Golf North / Tee-On Golf Systems Inc.
+### Golf North Properties / Tee-On Golf Systems Inc.
 
 TeeOn Mobile - Customer facing app, allows booking tee times at a variety of golf courses and handling your customer experience
 * **Technologies used**: React Native
