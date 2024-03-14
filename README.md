@@ -15,7 +15,7 @@ I'm a passionate Software Developer specializing in React Native and TypeScript.
 ### Aruba Smart Map
 [Aruba Smart Map](https://arubasmartmap.com/) - The ultimate Aruba offline travel guide. Find Wi-Fi, Happy Hours and places to go
 * **Products**: Admin interface, Mobile app: [iOS](https://apps.apple.com/ca/app/aruba-smart-map/id1481288809) [Android](https://play.google.com/store/apps/details?id=com.arubasmartmap.aruba_smart_map), Website
-* **Technologies used**: React, React Native, NodeJS, NextJS
+* **Technologies used**: React, React Native, NodeJS, MongoDB, NextJS
 * **Noteable libraries**: Mapbox
 
 ### Golf North Properties / Tee-On Golf Systems Inc.
