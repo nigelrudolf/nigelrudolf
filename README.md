@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate Software Developer specializing in React Native and TypeScript. I love building mobile applications that solve problems and delight users.
+I'm a passionate Software Developer specializing in React Native, TypeScript and NodeJS. I love building mobile applications that solve problems and delight users.
 
 ## 🛠 Technologies & Tools
 
